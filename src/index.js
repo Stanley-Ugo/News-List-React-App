@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Header from './components/header';
+import styles from './styles/styles.css';
 
 const App = () => {
   return (
